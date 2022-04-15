@@ -1,0 +1,36 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.logo {
+    width: 100%;
+    text-align: right;
+}
+.signature {
+    float:left;
+}
+ul {
+    width: 97%;
+}
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+.content {
+    width: 100%;
+    margin: 0 auto;
+}
+.heroimage {
+    float:right;
+}
+footer {
+    clear:both;
+    background-color: #373738;
+    padding: 1% 1% 1% 1%;
+    text-align:center;
+}
+ul.footer {
+    display: inline-block;
+    vertical-align: top;
+    padding: 50% 50% 50% 50%;
+}
